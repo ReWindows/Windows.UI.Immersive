@@ -1,0 +1,12 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from Windows.UI.Immersive.dll by Windissect. 1 member(s).
+namespace DirectUI {
+class NativeHWNDHost {
+public:
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1NativeHWNDHost@DirectUI@@UEAA@XZ
+    virtual ~NativeHWNDHost();
+};
+} // namespace DirectUI
